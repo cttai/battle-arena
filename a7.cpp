@@ -1,8 +1,4 @@
 /* Christine Tai
-CS 11
-3/13/17
-Dave Harden
-a7_2
 */
 
 #include <iostream>
